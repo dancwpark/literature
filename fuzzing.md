@@ -1,5 +1,5 @@
 # Fuzzing Literature
-Check out the ML&Fuzz collection in this repo too.
+Check out the ML&Fuzz collection below. Separated from general fuzzing literature.
 
 
 ## 2020
@@ -23,3 +23,31 @@ Check out the ML&Fuzz collection in this repo too.
 
 ## 2016
 * [Driller: Augmenting Fuzzing Through Selective Symbolic Execution](https://sites.cs.ucsb.edu/~chris/research/doc/ndss16_driller.pdf)
+
+# Machine Learning and Fuzzing
+## 2020
+* [MTFuzz: Fuzzing with a Multi-Task Neural Network](https://arxiv.org/pdf/2005.12392.pdf)
+* [CAGFuzz](https://arxiv.org/pdf/1911.07931v1.pdf)
+
+## 2019
+* [DeepFuzz](https://faculty.ist.psu.edu/wu/papers/DeepFuzz.pdf)
+* [V-Fuzz](https://arxiv.org/pdf/1901.01142.pdf)
+* An Intelligent Fuzzing Data Generation Method Based on Deep Adversarial Learning
+* [Format-aware Learn&Fuzz: Deep Test Data Generation for Efficient Fuzzing](https://export.arxiv.org/pdf/1812.09961)
+* [NEUZZ: Efficient Fuzzing with Neural Program Smoothing](http://www.cs.columbia.edu/~suman/docs/neuzz.pdf)
+  * [CODE](https://github.com/dongdongshe/neuzz)
+* [Optimizing seed inputs in fuzzing with machine learning](https://arxiv.org/pdf/1902.02538.pdf)
+
+## 2018
+* [FuzzerGym](https://arxiv.org/pdf/1807.07490.pdf)
+* [An Automatic Test Data Generation Tool Using Machine Learning](https://www.researchgate.net/profile/Ciprian_Paduraru/publication/326874506_An_Automatic_Test_Data_Generation_Tool_using_Machine_Learning/links/5bf58e9d299bf1124fe4c361/An-Automatic-Test-Data-Generation-Tool-using-Machine-Learning.pdf)
+* [Recurrent Neural Networks for Fuzz Testing Web Browsers](https://arxiv.org/pdf/1812.04852.pdf)
+* [Compiler Fuzzing through Deep Learning](http://homepages.inf.ed.ac.uk/hleather/publications/2018_deepfuzzing_issta.pdf)
+* GANFuzz: a GAN-based industrial network protocol fuzzing framework
+* Machine Learning for Black-Box Fuzzing of Network Protocols
+* [Deep Reinforcement Fuzzing](https://arxiv.org/pdf/1801.04589.pdf)
+* [SmartSeed: Smart Seed Generation for Efficient Fuzzing](https://arxiv.org/pdf/1807.02606.pdf)
+
+## 2017
+* [Faster Fuzzing: Reinitialization with Deep Neural Models](https://arxiv.org/pdf/1711.02807.pdf)
+* [Learn&Fuzz: Machine Learning for Input Fuzzing](https://www.microsoft.com/en-us/research/publication/learnfuzz-machine-learning-for-input-fuzzing/)
